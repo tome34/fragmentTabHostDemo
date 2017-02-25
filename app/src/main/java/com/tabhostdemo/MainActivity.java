@@ -42,5 +42,6 @@ public class MainActivity extends AppCompatActivity {
         //创建indicatorView1
         View indicatorView1 = View.inflate(this,R.layout.inflate_indicatorview,null);
 
+
     }
 }
